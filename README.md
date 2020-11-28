@@ -23,7 +23,7 @@ My name is Hudson Oliveira and I am a Backend Developer from SP, Brazil. I do a 
 ---
 
 ### Send me a message!
-- If you would like to contact me for some reason, fell free to send me a message!
+- If you want to contact me for some reason, fell free to send me a message!
 
 <p>
   <a href="https://twitter.com/grimmhud">

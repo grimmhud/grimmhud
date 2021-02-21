@@ -32,11 +32,6 @@ My name is Hudson Oliveira and I am a Backend Developer from SP, Brazil. I do a 
       src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://www.instagram.com/grimmhud/">
-    <img
-      alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-    />
   </a>
   <a href="https://www.linkedin.com/in/grimmhud/">
     <img

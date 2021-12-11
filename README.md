@@ -7,12 +7,7 @@ My name is Hudson Oliveira and I am a Backend Developer from SP, Brazil. I do a 
 ### What I do?
 <p>
   <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
   <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</p>
-
-### For fun
-<p>
   <img alt="python" src="https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />

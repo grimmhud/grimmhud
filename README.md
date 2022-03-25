@@ -39,7 +39,4 @@ My name is Hudson Oliveira and I am a Backend Developer from SP, Brazil. I do a 
 ---
 
 ### GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=grimmhud&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Hudson+Oliveira's+GitHub+Stats&show_icons=true"
-/>
+![Grimmhud Status](https://github-readme-stats.vercel.app/api?username=grimmhud&layout=compact&show_icons=true&theme=tokyonight) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=grimmhud&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
